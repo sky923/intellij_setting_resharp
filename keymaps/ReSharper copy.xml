@@ -9,4 +9,14 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift f12" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="GotoPreviousError" />
 </keymap>
