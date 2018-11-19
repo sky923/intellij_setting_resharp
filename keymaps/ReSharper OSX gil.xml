@@ -1,0 +1,38 @@
+<keymap version="1" name="ReSharper OSX gil" parent="ReSharper OSX">
+  <action id="ActivateNuGetToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift meta button1" />
+    <mouse-shortcut keystroke="shift button2" />
+  </action>
+  <action id="Images.ShowThumbnails" />
+  <action id="RiderUnitTestAppendTestsAction" />
+  <action id="RiderUnitTestDebugContextAction" />
+  <action id="RiderUnitTestDotMemoryUnitAction" />
+  <action id="RiderUnitTestNewSessionAction" />
+  <action id="RiderUnitTestRepeatPreviousRunAction" />
+  <action id="RiderUnitTestRunContextAction" />
+  <action id="RiderUnitTestRunContextUntilFailAction" />
+  <action id="RiderUnitTestRunCurrentSessionAction" />
+  <action id="RiderUnitTestRunSolutionAction" />
+  <action id="RiderUnitTestSessionAbortAction" />
+  <action id="RiderUnitTestSessionRerunFailedTestsAction" />
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="ShowFilePath">
+    <keyboard-shortcut first-keystroke="meta alt f12" />
+  </action>
+  <action id="tasks.switch" />
+</keymap>
