@@ -8,6 +8,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta t" />
