@@ -5,6 +5,10 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="EditorSelectWord" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
