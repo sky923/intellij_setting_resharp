@@ -19,4 +19,6 @@
   </action>
   <action id="GotoNextError" />
   <action id="GotoPreviousError" />
+  <action id="VcsShowNextChangeMarker" />
+  <action id="VcsShowPrevChangeMarker" />
 </keymap>
