@@ -5,19 +5,33 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
+  <action id="AddToFavoritesPopup" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="EditorMatchBrace">
     <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift f12" />
+  </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="shift alt f11" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="GotoPreviousError" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
@@ -26,6 +40,12 @@
     <mouse-shortcut keystroke="shift button2" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
+  </action>
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestDebugContextAction" />
   <action id="RiderUnitTestDotMemoryUnitAction" />
@@ -38,8 +58,21 @@
   <action id="RiderUnitTestSessionAbortAction" />
   <action id="RiderUnitTestSessionRerunFailedTestsAction" />
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
+  </action>
   <action id="ShowFilePath">
     <keyboard-shortcut first-keystroke="meta alt f12" />
+  </action>
+  <action id="ShowSettingsAndFindUsages">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f7" />
+  </action>
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="tasks.switch" />
 </keymap>
