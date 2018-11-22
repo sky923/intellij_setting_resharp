@@ -31,8 +31,19 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="alt f12" />
   </action>
   <action id="GotoPreviousError" />
   <action id="GotoSymbol">
@@ -43,6 +54,8 @@
     <mouse-shortcut keystroke="shift button2" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="ReSharperGotoNextErrorInSolution" />
+  <action id="ReSharperGotoPrevErrorInSolution" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
