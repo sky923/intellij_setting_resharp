@@ -17,4 +17,8 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="alwaysCompleteWithEnter" value="true" />
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+  </component>
 </application>
