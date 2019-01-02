@@ -12,6 +12,9 @@
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -62,6 +65,7 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
   </action>
+  <action id="Resume" />
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestDebugContextAction" />
   <action id="RiderUnitTestDotMemoryUnitAction" />
@@ -85,6 +89,7 @@
   <action id="ShowSettingsAndFindUsages">
     <keyboard-shortcut first-keystroke="shift ctrl alt f7" />
   </action>
+  <action id="UML.ApplyCurrentLayout" />
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
