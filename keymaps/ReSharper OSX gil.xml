@@ -65,6 +65,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
   </action>
+  <action id="RiderCodeLens.ShowMore">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestDebugContextAction" />
   <action id="RiderUnitTestDotMemoryUnitAction" />
