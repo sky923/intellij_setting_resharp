@@ -65,6 +65,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
   </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="alt f5" />
+  </action>
   <action id="RiderCodeLens.ShowMore">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
@@ -79,6 +82,7 @@
   <action id="RiderUnitTestRunSolutionAction" />
   <action id="RiderUnitTestSessionAbortAction" />
   <action id="RiderUnitTestSessionRerunFailedTestsAction" />
+  <action id="Run" />
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SafeDelete" />
   <action id="ShelvedChanges.Rename">
