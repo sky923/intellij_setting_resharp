@@ -12,9 +12,7 @@
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
-  <action id="Debug">
-    <keyboard-shortcut first-keystroke="f5" />
-  </action>
+  <action id="Debug" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
