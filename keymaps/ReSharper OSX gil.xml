@@ -67,6 +67,7 @@
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="alt f5" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="RiderCodeLens.ShowMore">
     <keyboard-shortcut first-keystroke="alt 1" />
